@@ -1,4 +1,5 @@
 ## Adult Site Alert
+![Banner](https://raw.githubusercontent.com/npcHamza/Adult-Site-Alert/refs/heads/main/banner.png)
 
 ### Proje Hakkında
 
